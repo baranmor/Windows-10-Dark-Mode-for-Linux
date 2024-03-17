@@ -7,3 +7,7 @@ Before:
 After:
 ![windowsdark](https://github.com/baranmor/Windows-10-Dark-Mode-for-Linux/assets/161608773/7f6c6f6c-80dc-4d67-908f-dd37789174e8)
 
+Note: You must additionally change the icons to make it look like this.
+Whisker menu > Search bar > Appearance > Icons > Select Windows 10
+
+#Note: You should download the files to /usr/share/themes
